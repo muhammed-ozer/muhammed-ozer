@@ -11,6 +11,9 @@
 - **DevOps:** Azure, Docker, CI/CD, GitHub Actions  
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammed-ozer&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-ozer&layout=compact&theme=dark)
+
+📫 **Reach me at:**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourUsername-blue?logo=linkedin)](www.linkedin.com/in/muhammed-özer-466970150)
