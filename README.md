@@ -16,4 +16,4 @@
 
 📫 **Reach me at:**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammed-Ozer-blue?logo=linkedin)](www.linkedin.com/in/muhammed-özer-466970150)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MuhammedOzer-blue?logo=linkedin)](www.linkedin.com/in/muhammed-özer-466970150)
