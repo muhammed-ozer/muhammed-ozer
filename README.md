@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Muhammed 👋
 
-<!--
-**muhammed-ozer/muhammed-ozer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 .NET & Vue.js Developer  
+💡 Building scalable applications with ASP.NET Core & Nuxt.js  
+📍 Based in Turkey
+📫 Reach me: hello@muhammedozer.com
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Backend:** ASP.NET Core, C#, Entity Framework, MediatR
+- **Frontend:** Vue.js 3, Nuxt.js, TypeScript, Tailwind CSS  
+- **DevOps:** Azure, Docker, CI/CD, GitHub Actions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammed-ozer&show_icons=true&theme=dark)
