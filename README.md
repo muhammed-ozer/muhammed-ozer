@@ -15,6 +15,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-ozer&layout=compact&theme=dark)
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=muhammed-ozer&theme=github-dark)
-
-![Snake animation](https://github.com/muhammed-ozer/muhammed-ozer/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/muhammed-ozer/blob/output/github-contribution-grid-snake.svg)
